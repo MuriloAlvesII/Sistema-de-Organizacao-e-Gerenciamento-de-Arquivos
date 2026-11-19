@@ -15,8 +15,8 @@ Categorias
 arquivos cadastrados
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212958" src="https://github.com/user-attachments/assets/04340f62-a548-4e9d-b165-194cec2a11ba" />
 
-
+Cadastro de usuário
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212700" src="https://github.com/user-attachments/assets/7bb5b51c-4771-4b41-aeda-be496993c9cd" />
 
-
+Login
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212624" src="https://github.com/user-attachments/assets/548e652b-fd9b-480e-9f20-7f7dc53f7232" />
