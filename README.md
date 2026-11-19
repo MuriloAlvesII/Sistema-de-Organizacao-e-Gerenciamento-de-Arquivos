@@ -20,3 +20,5 @@ Cadastro de usuário
 
 Login
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212624" src="https://github.com/user-attachments/assets/548e652b-fd9b-480e-9f20-7f7dc53f7232" />
+
+Quando solicitamos a IA para fazer o sistema (usamos o Gemini) coloquei ele na plataforma google sites, nele não banco de dados nem as coisas que deveria salvar, nele basicamente só tem o HTML, CSS e o Javascript.
