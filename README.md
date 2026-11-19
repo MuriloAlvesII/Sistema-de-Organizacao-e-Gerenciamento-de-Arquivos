@@ -21,6 +21,22 @@ Cadastro de usuário
 Login
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212624" src="https://github.com/user-attachments/assets/548e652b-fd9b-480e-9f20-7f7dc53f7232" />
 
+Detalhe do arquivo
+<img width="1916" height="1030" alt="Captura de tela 2026-11-18 215502" src="https://github.com/user-attachments/assets/1bf29570-4aad-4d1f-8781-8c474b0fcbcc" />
+
+Editar arquivo
+<img width="1917" height="1027" alt="Captura de tela 2026-11-18 215632" src="https://github.com/user-attachments/assets/3eaba769-e5e8-4883-9f8e-c30a63dc66fb" />
+
+
 Quando solicitamos a IA para fazer o sistema (usamos o Gemini) coloquei ele na plataforma google sites, nele não banco de dados nem as coisas que deveria salvar, nele basicamente só tem o HTML, CSS e o Javascript.
 
 Modelagem do banco (Fizemos no Drawio):<img width="1116" height="770" alt="Captura de tela 2026-11-18 214819" src="https://github.com/user-attachments/assets/0163253c-259f-452d-841d-e34526058245" />
+
+Link do protótipo no google sites: https://sites.google.com/escolar.ifrn.edu.br/soga/full-page-embed
+
+## Como usamos IA
+
+* **Ferramenta utilizada:** Google Gemini (para geração dos protótipos visuais das telas e estruturação inicial em HTML/CSS/JS hospedada no Google Sites).
+* **Prompt utilizado:** *"Crie as telas de um Sistema de Organização e Gerenciamento de Arquivos (SOGA) com design minimalista, paleta de cores em roxo (#6A0DAD) e preto (#0A0A0A), contendo tela de Login, Cadastro de Usuário, Listagem de Arquivos com busca/filtro, Cadastro de Arquivo e Detalhes do Arquivo."*
+* **O que ficou:** A identidade visual em roxo e branco, a estrutura dos cards com borda superior roxa, o cabeçalho de navegação (Arquivos e Categorias), o rodapé institucional e a organização das tabelas de listagem.
+* **O que mudou:** Ajustamos manualmente a logo oval "SOGA", corrigimos deformações no texto do subtítulo, alteramos o link da tela de login para *"Não tem uma conta? Cadastre-se"*, removemos animações exageradas nos botões e integramos as telas em HTML/CSS/JS no Google Sites apenas como protótipo navegável (sem banco de dados nesta etapa).
