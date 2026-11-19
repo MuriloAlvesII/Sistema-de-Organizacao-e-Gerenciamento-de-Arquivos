@@ -22,3 +22,5 @@ Login
 <img width="1917" height="1078" alt="Captura de tela 2026-11-18 212624" src="https://github.com/user-attachments/assets/548e652b-fd9b-480e-9f20-7f7dc53f7232" />
 
 Quando solicitamos a IA para fazer o sistema (usamos o Gemini) coloquei ele na plataforma google sites, nele não banco de dados nem as coisas que deveria salvar, nele basicamente só tem o HTML, CSS e o Javascript.
+
+Modelagem do banco (Fizemos no Drawio):<img width="1116" height="770" alt="Captura de tela 2026-11-18 214819" src="https://github.com/user-attachments/assets/0163253c-259f-452d-841d-e34526058245" />
