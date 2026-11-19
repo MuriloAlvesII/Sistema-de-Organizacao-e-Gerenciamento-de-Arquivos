@@ -30,7 +30,7 @@ Editar arquivo
 
 Quando solicitamos a IA para fazer o sistema (usamos o Gemini) coloquei ele na plataforma google sites, nele não banco de dados nem as coisas que deveria salvar, nele basicamente só tem o HTML, CSS e o Javascript.
 
-Modelagem do banco (Fizemos no Drawio):<img width="1116" height="770" alt="Captura de tela 2026-11-18 214819" src="https://github.com/user-attachments/assets/0163253c-259f-452d-841d-e34526058245" />
+Modelagem do banco (Fizemos no Drawio):<img width="1160" height="925" alt="Captura de tela 2026-11-18 230517" src="https://github.com/user-attachments/assets/dfb2c438-bf89-4855-85ae-e94a2e47d1e0"/>
 
 Link do protótipo no google sites: https://sites.google.com/escolar.ifrn.edu.br/soga/full-page-embed
 
